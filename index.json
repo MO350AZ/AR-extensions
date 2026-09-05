@@ -7838,6 +7838,27 @@
         ]
       },
       {
+        "name": "Hunlight Comics",
+        "packageName": "eu.kanade.tachiyomi.extension.en.hunlightcomics",
+        "resources": {
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/064c1a0/tachiyomi-en.hunlightcomics-v1.6.54.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hunlightcomics/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/064c1a0/tachiyomi-en.hunlightcomics-v1.6.54.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106054",
+        "versionName": "1.6.54",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "3876544289472679486",
+            "name": "Hunlight Comics",
+            "language": "en",
+            "homeUrl": "https://hunlightcomics.com"
+          }
+        ]
+      },
+      {
         "name": "Hyakuro Translations",
         "packageName": "eu.kanade.tachiyomi.extension.en.hyakuro",
         "resources": {
@@ -24365,20 +24386,20 @@
         "name": "Top Truyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.toptruyen",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/34e4d51-2/tachiyomi-vi.toptruyen-v1.6.44.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/064c1a0/tachiyomi-vi.toptruyen-v1.6.45.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/toptruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-2/tachiyomi-vi.toptruyen-v1.6.44.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/064c1a0/tachiyomi-vi.toptruyen-v1.6.45.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106044",
-        "versionName": "1.6.44",
+        "versionCode": "106045",
+        "versionName": "1.6.45",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "1166901607721102706",
             "name": "Top Truyen",
             "language": "vi",
-            "homeUrl": "https://www.toptruyenzone11.com"
+            "homeUrl": "https://www.toptruyenzonee.com"
           }
         ]
       },
@@ -24596,20 +24617,20 @@
         "name": "ZetTruyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.zettruyen",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/34e4d51-2/tachiyomi-vi.zettruyen-v1.6.12.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/064c1a0/tachiyomi-vi.zettruyen-v1.6.13.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/zettruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-2/tachiyomi-vi.zettruyen-v1.6.12.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/064c1a0/tachiyomi-vi.zettruyen-v1.6.13.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106012",
-        "versionName": "1.6.12",
+        "versionCode": "106013",
+        "versionName": "1.6.13",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "893747327087652119",
             "name": "ZetTruyen",
             "language": "vi",
-            "homeUrl": "https://www.zettruyen.work"
+            "homeUrl": "https://www.zettruyen1.com"
           }
         ]
       },
